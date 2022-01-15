@@ -1,0 +1,1 @@
+To run .exe and .py, Please place the database file and UI file next to them.
